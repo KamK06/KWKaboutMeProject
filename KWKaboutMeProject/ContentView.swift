@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack(alignment: .center) {
                 
-            Text("Ayo waddup it's Kam")
+            Text("Ayo waddup it's Kam!!!")
             Image("tallneck")
                 .resizable(resizingMode: .tile)
                 .aspectRatio(contentMode: .fit)
